@@ -89,7 +89,7 @@ checksum = "6b2d54853319fd101b8dd81de382bcbf3e03410a64d8928bbee85a3e7dcde483"
 [[package]]
 name = "anchor-attribute-access-control"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -102,7 +102,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-account"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -116,7 +116,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-constant"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "proc-macro2 1.0.39",
@@ -126,7 +126,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-error"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "proc-macro2 1.0.39",
@@ -137,7 +137,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-event"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -149,7 +149,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-interface"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -162,7 +162,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-program"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -174,7 +174,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-state"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -186,7 +186,7 @@ dependencies = [
 [[package]]
 name = "anchor-derive-accounts"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -198,7 +198,7 @@ dependencies = [
 [[package]]
 name = "anchor-lang"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anchor-attribute-access-control",
  "anchor-attribute-account",
@@ -221,7 +221,7 @@ dependencies = [
 [[package]]
 name = "anchor-syn"
 version = "0.24.2"
-source = "git+https://github.com/jito-labs/anchor.git?rev=3115c1eee6ba455774c64144179be44f580f60f7#3115c1eee6ba455774c64144179be44f580f60f7"
+source = "git+https://github.com/jito-labs/anchor.git?rev=54752ed4d3f56f998c6956b69d85a776331eaaf3#54752ed4d3f56f998c6956b69d85a776331eaaf3"
 dependencies = [
  "anyhow",
  "bs58 0.3.1",

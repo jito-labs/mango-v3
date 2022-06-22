@@ -35,7 +35,7 @@ pyth-client = {version = ">=0.5.0", features = ["no-entrypoint"]}
 switchboard-program = ">=0.2.0"
 switchboard-utils = ">=0.1.36"
 
-anchor-lang = { rev = "3115c1eee6ba455774c64144179be44f580f60f7", git = "https://github.com/jito-labs/anchor.git" }
+anchor-lang = { rev = "54752ed4d3f56f998c6956b69d85a776331eaaf3", git = "https://github.com/jito-labs/anchor.git" }
 
 [dev-dependencies]
 solana-sdk = ">=1.10.0"
