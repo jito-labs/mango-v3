@@ -17,5 +17,5 @@ devnet = []
 default = []
 
 [dependencies]
-anchor-lang = { rev = "54752ed4d3f56f998c6956b69d85a776331eaaf3", git = "https://github.com/jito-labs/anchor.git" }
+anchor-lang = {  git = "https://github.com/0xEdgar/anchor.git" }
 base64 = "0.13.0"
